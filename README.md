@@ -1,5 +1,5 @@
 # Alura-Store-Challege
-Challengue Tienda Alura Store
+Challenge Tienda Alura Store
 
 🌟 Proyecto de Análisis de Tiendas
 
